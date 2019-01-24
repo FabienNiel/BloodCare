@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.InsightFragment">
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycleListHistory"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp" />
+    <ImageView
+        android:id="@+id/insight_empty_image"
+        android:src="@drawable/empty"
+        android:layout_width="250dp"
+        android:layout_height="220dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+    <TextView
+        android:id="@+id/insight_empty_text"
+        android:layout_below="@id/insight_empty_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textSize="16sp"
+        android:text="Data Tidak Ditemukan"/>
+</RelativeLayout>
