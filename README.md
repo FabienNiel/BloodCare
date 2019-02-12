@@ -1,9 +1,18 @@
 # BloodCare
 This application is about Measuring (blood pressure) and Calculate the risk of hypertension
 
-![Home Menu](https://i.ibb.co/nfJ44T5/Screenshot-20190212-130622-Blood-Care.jpg)
-![Measuring process](https://i.ibb.co/2Z1PG8t/Screenshot-20190212-130632-Blood-Care.jpg)
-![Result](https://i.ibb.co/PQPstP4/Screenshot-20190212-130730-Blood-Care.jpg)
+![Home Menu](https://i.ibb.co/Trz1ML8/Screenshot-20190212-130622-Blood-Care.jpg)
+Home Menu
+
+![Measuring process](https://i.ibb.co/K9pjMSW/Screenshot-20190212-130632-Blood-Care.jpg)
+Measuring Process
+
+![Result](https://i.ibb.co/bmm02Fd/Screenshot-20190212-130730-Blood-Care.jpg)
+Result
+
+![Suggestion](https://i.ibb.co/4SW2N4d/Screenshot-20190212-130734-Blood-Care.jpg)
+Suggestion
+
 # How to Measure Blood Pressure
 A preview for 30 seconds of recording will be processed frame by frame to get the intensities of RBG colors on each frame.
 
